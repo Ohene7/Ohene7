@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 😄 Pronouns: He/him/his <br>
-🔭 I’m currently working on ... Studying to become a Web Developer <br>
+🔭 I’m currently working on ... Studying to become a Full Stack Web Developer <br>
 🌱 I’m currently learning ... HTML, CSS, Sass, Bootstrap, JavaScript + MERN stack + Beautiful UX/UI design skills <br>
 👯 I’m looking to collaborate on ... Any team for a startup or small company <br>
 🤔 I’m looking for help with ... Finding an opportunity to be a part of a great and diverse company <br>
