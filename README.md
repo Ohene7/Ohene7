@@ -7,4 +7,4 @@
 🤔 I’m looking for help with ... Finding an opportunity to be a part of a great and diverse company <br>
 💬 Ask me about ... My passion for blending beauty with code <br>
 📫 How to reach me: ... ohene.osei1@gmail.com or my Twitter account: @vlchemist7 <br>
-⚡ Fun fact: ... My first loves are writing and art. I also enjoy traveling and would love to live a nomadic life. I'm open to relocation anywhere in the U.S. or world, even.
+⚡ Fun fact: ... My first loves are writing and art. I also enjoy traveling and would love to live a nomadic life. I'm open to relocation, too.
