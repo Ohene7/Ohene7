@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😄 Pronouns: He/him/his ##br
+😄 Pronouns: He/him/his <br>
 🔭 I’m currently working on ... Studying to become a Web Developer
 🌱 I’m currently learning ... HTML, CSS, Sass, Bootstrap, JavaScript + MERN stack + Beautiful UX/UI design skills
 👯 I’m looking to collaborate on ... Any team for a startup or small company
